@@ -12,7 +12,7 @@ Hello, I'm Gavin, 23-year-old programming enthusiast passionate about AI and gam
 
 I enjoy working with a variety of technologies and tools.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinEwart&show_icons=true&theme=radical)
+![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinEwart&show_icons=true&theme=radical)
 
 - **Programming Languages**: [List your favorite languages]
 - **Web Development**: [List your web development skills]
