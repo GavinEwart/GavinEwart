@@ -23,14 +23,15 @@ I enjoy working with a variety of technologies and tools.
 
 Here are some of the projects I'm proud of:
 
-- The Great Number Game(https://github.com/GavinEwart/Coding-Dojo-Python/tree/main/Flask/great_number_game): Brief description or one-liner about the project.
+- The Great Number Game(https://github.com/GavinEwart/Coding-Dojo-Python/tree/main/Flask/great_number_game):
+- It is a fun game I made where the computer picks a number and you have to try to guess it.
 
 Feel free to explore my repositories to discover more interesting projects and track my progress at Coding Dojo!
 
 ## GitHub Stats
 
 ![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinEwart&show_icons=true&theme=radical)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/GavinEwart/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GavinEwart&show_icons=true&theme=dark)](https://github.com/GavinEwart/github-readme-stats)
 
 ## Connect with Me
 
