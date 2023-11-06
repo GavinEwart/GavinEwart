@@ -12,9 +12,7 @@ Hello, I'm Gavin, 23-year-old programming enthusiast passionate about AI and gam
 
 I enjoy working with a variety of technologies and tools.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinEwart&show_icons=true&theme=radical)
 
 - **Programming Languages**: [List your favorite languages]
 - **Web Development**: [List your web development skills]
@@ -31,7 +29,7 @@ Feel free to explore my repositories to discover more interesting projects and t
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/GavinEwart/github-readme-stats)
 
 ## Connect with Me
 
