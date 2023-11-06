@@ -21,7 +21,7 @@ I enjoy working with a variety of technologies and tools.
 
 Here are some of the projects I'm proud of:
 
-- The Great Number Game(https://github.com/GavinEwart/Coding-Dojo-Python/tree/main/Flask/great_number_game): - It is a fun game I made where the computer picks a number and you have to try to guess it.
+- The Great Number Game(https://github.com/GavinEwart/TheGreatNumbersGame): - It is a fun game I made where the computer picks a number and you have to try to guess it.
 - More coming soon.....
 
 Feel free to explore my repositories to discover more interesting projects and track my progress at Coding Dojo!
