@@ -34,7 +34,7 @@ Feel free to explore my repositories to discover more interesting projects and t
 
 Let's connect and discuss exciting opportunities or collaborate on interesting projects. You can find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/GavinEwart)
+- [LinkedIn](https://www.linkedin.com/in/Gavin-Ewart)
 - [Email](ggewart00@gmail.com)
 
 ## 🚀 Happy Coding!
