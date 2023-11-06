@@ -28,9 +28,10 @@ Feel free to explore my repositories to discover more interesting projects and t
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GavinEwart&show_icons=true&theme=dark)](https://github.com/GavinEwart/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinEwart&show_icons=true&theme=radical)
 
 ## Webpage coming soon.....
+Coming soon.....
 
 ## Connect with Me
 
