@@ -22,7 +22,7 @@ I enjoy working with a variety of technologies and tools.
 Here are some of the projects I'm proud of:
 
 - The Great Number Game(https://github.com/GavinEwart/TheGreatNumbersGame): - It is a fun game I made where the computer picks a number and you have to try to guess it.
-- More coming soon.....
+- Counter(https://github.com/GavinEwart/Counter): - Webpage the tracks how many times you visited it
 
 Feel free to explore my repositories to discover more interesting projects and track my progress at Coding Dojo!
 
