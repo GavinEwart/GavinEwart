@@ -12,7 +12,7 @@ Hello, I'm Gavin, 23-year-old programming enthusiast passionate about AI and gam
 
 I enjoy working with a variety of technologies and tools.
 
-![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinEwart&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GavinEwart&theme=tokyonight)
 
 - **Programming Languages**: [List your favorite languages]
 - **Web Development**: [List your web development skills]
@@ -29,6 +29,7 @@ Feel free to explore my repositories to discover more interesting projects and t
 
 ## GitHub Stats
 
+![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinEwart&show_icons=true&theme=radical)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/GavinEwart/github-readme-stats)
 
 ## Connect with Me
